@@ -21,7 +21,7 @@ INSERT INTO orders(customer_id,order_date,status) VALUES
 (4, '2024-03-02 11:20:00', 'pending'),
 (5, '2024-03-15 18:00:00', 'delivered'),
 (2, '2024-04-01 13:10:00', 'delivered');
-INSERT INTO order_items (order_id, prduct_id, quantity, unit_price) VALUES
+INSERT INTO order_items (order_id, product_id, quantity, unit_price) VALUES
 (1, 1, 1, 75000.00),
 (1, 5, 2,   499.00),
 (2, 3, 3,   799.00),
