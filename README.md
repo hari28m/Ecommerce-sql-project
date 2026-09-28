@@ -59,4 +59,4 @@ Using the queries in this project, I was able to answer the following:
 ## 🤝 Connect with Me
 I am actively looking for opportunities  
 *   **LinkedIn:** https://www.linkedin.com/in/hari028/
-*   **Email:** hariprasath28.m@gmail.com
+*   **Email:** hariprasath.m028@gmail.com
